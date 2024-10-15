@@ -1,4 +1,4 @@
-ArrayList<Die> dice = new ArrayList<>(); 
+ArrayList<Die> dice = new ArrayList<Die>(); 
 int dieSize = 100; 
 int gridSize = 3; 
 int margin = 70; 
